@@ -10,4 +10,4 @@ if(mes == 12 || mes == 1 || mes == 2){
 	document.write("es otoño");
 }
 
-document.write("<br>carné: 19012620<br>Nombre: Karla Gabriela Ortiz Cruz");
+document.write("<br>carné: 19012620<br>Nombre: Karla Gabriela Ortiz Cruz :)");
